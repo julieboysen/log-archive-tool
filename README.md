@@ -31,7 +31,7 @@ Bash script to automate the process of archiving and cleaning up log files. It c
 ```
 
 ### Parameters
-- **Log Directory**: The directory where log files are stored. This is passed as the first argument to the script.
+- **Log Directory**: The directory where log files are stored.
 
 ## Configuration
 
